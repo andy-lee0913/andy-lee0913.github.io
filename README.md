@@ -1,42 +1,9 @@
-## Welcome to GitHub Pages
+![Desk with desktop and laptop computers](https://raw.githubusercontent.com/shuzhanfan/shuzhanfan.github.io/master/assets/images/about.gif?token=ALOAm2CARy9J21XU2MiHHah68pnmSjZBks5baxe2wA%3D%3D)
 
-You can use the [editor on GitHub](https://github.com/andy-lee0913/andylee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# [My personal website][]
+This website is built based upon Jekyll framework. The theme used is [facebook.design][]. I also implemented some other useful features
+such as static comments, instant search, like buttons, social media share buttons, frame animations, Google Analytics, etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andy-lee0913/andylee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-support
-
-### 
-
+<!--refs-->
+[My personal website]: https://shuzhanfan.github.io
+[facebook.design]: http://facebook.design/

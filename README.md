@@ -1,4 +1,4 @@
-![inspiration](https://raw.githubusercontent.com/andy-lee0913/andy-lee0913.github.io/blob/master/assets/images/inspiration.JPG?token=ALOAm2CARy9J21XU2MiHHah68pnmSjZBks5baxe2wA%3D%3D)
+![inspiration](https://github.com/andy-lee0913/andy-lee0913.github.io/blob/master/assets/images/inspiration.JPG)
 
 # [My personal website][]
 This website is built based upon Jekyll framework. The theme used is [facebook.design][]. I also implemented some other useful features

@@ -1,13 +1,13 @@
 # Basic
-title: Shuzhan Fan
-author: Shuzhan Fan
-email: sfan2@lsu.edu
-description: Shuzhan Fan's personal website.
+title: Yuanze Li
+author: Yuanze Li
+email: lyz.sd@163.com
+description: Yuanze Li's blog.
 timezone: "-0600"
 
-repository: shuzhanfan/shuzhanfan.github.io
+repository: andy-lee0913/andy-lee0913.github.io
 baseurl: ""
-url: https://shuzhanfan.github.io
+url: https://andy-lee0913.github.io/
 
 permalink: /:year/:month/:title/
 
@@ -26,8 +26,8 @@ paginate_path: "/page:num/"
 
 # Social
 social:
-    github: shuzhanfan
-    mail: sfan2@lsu.edu
+    github: andy-lee0913
+    mail: lyz.sd@163.com
 
 # Plugins
 plugins:

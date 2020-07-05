@@ -17,7 +17,7 @@ Naive Bayes, or called Naive Bayes classifier, is a classifier based on Bayes Th
 Given a feature vector $$X=(x_1, x_2,...,x_n)$$ and a class variable $$C_k$$, Bayes Theorem states that:
 {% raw %}
 $$
-    P(C_k|X) = \frac{P(X|C_k)P(C_k)}{P(X)}, \space \space for \space k=1,2,...,K
+P(C_k|X) = \frac{P(X|C_k)P(C_k)}{P(X)}, \space \space for \space k=1,2,...,K
 $$
 {% endraw %}
 

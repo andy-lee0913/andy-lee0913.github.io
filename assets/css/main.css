@@ -1526,10 +1526,7 @@ hr {
 	display: inline-block;
 }
 
-/* Like button*/
-.like-button {
-	padding-right: 10px;
-}
+
 
 /* Each button */
 .share-button {
@@ -1667,23 +1664,6 @@ hr {
 	background-color: rgba(0,0,0,.18);
 }
 /* Topic hash tags <<<<<*/
-
-
-/* >>>>>Like button */
-.like-button-index {
-	padding-left: 65px;
-	padding-bottom: 3px;
-	opacity: 0.9;
-	font-style: italic;
-	display: inline-block;
-}
-
-.like-button-about {
-	text-align: right;
-	font-style: italic;
-	padding-bottom: 40px;
-}
-/* Like button <<<<<*/
 
 
 /* >>>>> Navigation bar my name initial */

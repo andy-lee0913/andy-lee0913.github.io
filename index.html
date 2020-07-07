@@ -25,9 +25,7 @@ subtitle:   生命不息，学习不止
                         <div class="card-footer-wrapper" layout="row bottom-left">
                             <div class="card-type is-notShownIfHover">{{ post.date | date: "%F"}}</div>
                             <div class="card-tag is-notShownIfHover">@{{ site.author }}</div>
-			    <div class="card-tag is-notShownIfHover">
-                                
-                            </div>
+
                             <div class="card-tag is-shownIfHover">
                                 {% for tag in post.tags %}
                                     {{ tag }} &nbsp;&nbsp;
